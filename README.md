@@ -24,11 +24,9 @@
 
 </div>
 
----
-
 # 💻 About Me
 
-
+```python
 class GabrielAlexandre:
 
     education = "Software Engineering - FIAP"
